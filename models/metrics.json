@@ -1,0 +1,20 @@
+{
+  "accuracy": 0.918,
+  "precision": 0.933,
+  "recall": 0.933,
+  "f1": 0.933,
+  "train_size": 4000,
+  "test_size": 1000,
+  "feature_importance": {
+    "previous_default": 0.3076,
+    "num_credit_lines": 0.1694,
+    "loan_amount": 0.107,
+    "credit_score": 0.0963,
+    "dti_ratio": 0.0905,
+    "employment_years": 0.0903,
+    "annual_income": 0.0676,
+    "age": 0.0262,
+    "loan_purpose_encoded": 0.0233,
+    "home_ownership_encoded": 0.0217
+  }
+}
